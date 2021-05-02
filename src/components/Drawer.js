@@ -123,7 +123,7 @@ export default function PersistentDrawerLeft() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Apna Stripe
+             UnBolt
           </Typography>
         </Toolbar>
       </AppBar>
