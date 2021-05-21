@@ -2,7 +2,7 @@ import './App.css';
 import {
   BrowserRouter as Router,
 } from "react-router-dom";
-import Drawer from './components/Drawer'
+import Drawer from './components/Drawer';
 
 function App() {
   return (

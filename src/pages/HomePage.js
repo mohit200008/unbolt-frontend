@@ -1,6 +1,10 @@
+import {Typography} from "@material-ui/core"
+
 function HomePage(){
     return(
-        <h1>Home Page</h1>
+        <Typography variant="h3" noWrap>
+             Home page
+          </Typography>
     );
 }
 

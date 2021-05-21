@@ -122,8 +122,8 @@ export default function PersistentDrawerLeft() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap>
-             UnBolt
+          <Typography variant="h3" noWrap>
+             UNBOLT
           </Typography>
         </Toolbar>
       </AppBar>

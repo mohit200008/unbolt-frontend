@@ -1,6 +1,10 @@
+import { Typography } from "@material-ui/core";
+
 function Invoices(){
     return(
-        <h1>Invoices</h1>
+     <Typography variant="h3" noWrap>
+       Invoices   
+     </Typography>
     );
 }
 

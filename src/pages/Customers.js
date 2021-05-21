@@ -1,6 +1,10 @@
+import {Typography} from "@material-ui/core";
+
 function Customers(){
     return(
-        <h1>Customers</h1>
+      <Typography variant="h3" noWrap>
+        Customers      
+      </Typography>
     );
 }
 
